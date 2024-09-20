@@ -1,4 +1,3 @@
 # Bile Bytes
 
 Website for CISC322
-I HAVE A CHYMOUS APPETITE
