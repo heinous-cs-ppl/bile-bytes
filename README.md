@@ -1,1 +1,3 @@
-# bile-bytes
+# Bile Bytes
+
+Website for CISC322
