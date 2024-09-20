@@ -1,4 +1,3 @@
 # Bile Bytes
 
-Website for CISC322
-\nextremely vacuous website
+Extremely vacuous website for CISC322
